@@ -10,8 +10,8 @@
 
 // Define and initialize the variables. Be sure to edit the wireless network information, channel ID, and API keys.
 //  Find your channel ID on the top of the main page for your channel:
-const char* ssid = "Vodafone-2928";
-const char* password = "MJmG3NcaUdT64nDc";
+const char* ssid = "Vodafone-";
+const char* password = "yyy";
 
 const char* server = "mqtt3.thingspeak.com";
 char mqttUserName[] = "MBQiIzMTOzALHwcDKTAXOhE";            
